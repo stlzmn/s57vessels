@@ -1,0 +1,13 @@
+pygame
+pyproj
+numpy
+numba
+GDAL
+pyais
+pyodbc
+pyserial
+matplotlib
+scipy
+pandas
+gym
+pytest
